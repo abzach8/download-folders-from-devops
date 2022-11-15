@@ -1,20 +1,12 @@
 <#
-
 Name: DevOps-Repo-Download.ps1
 Version: 2
 Author: Abbia Zacharia
-
-Purpose: 
-Download folders and all its contents from Azure Devops repository 
-
+Purpose: Download folders and all its contents from Azure Devops repository 
 Description:
-
 Version Control:
-
 Prerequisites:
-
 Configurations:
-
 #>
 
 #==================================================================================
